@@ -13,7 +13,7 @@ Authors@R:
 Maintainer: Damon Morris <d.j.morris@sheffield.ac.uk>
 Description: A repository of publicly available aggregated labour market indicator data,
     including employment, hours of work, and earnings
-License: What license is it under?
+License: AGPL (>= 3)
 Encoding: UTF-8
 LazyData: true
 Depends: 
